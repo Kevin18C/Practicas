@@ -18,7 +18,6 @@ function registerUser(event) {
   event.preventDefault(); // Evita que el formulario se envíe
 
   // Obtiene los valores de usuario y contraseña del formulario de registro
-  const username = registerForm.elements.username.value;
   const email = registerForm.elements.email.value;
   const password = registerForm.elements.password.value;
 
