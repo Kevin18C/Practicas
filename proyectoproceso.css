@@ -78,12 +78,13 @@ h1{
     
 }
 .final{
-    
+    margin-left: 500px;
     border-radius: 5px;
 }
     
     h4
     {
+    margin-left: -500px;
     text-align:center;
     color:black;
     font-family:arial;
@@ -146,7 +147,7 @@ h1{
     /* fill color */  
     .dribbblecolor{background:#ea4c89;}
     .facebookcolor{background:#3b5998;} 
-    .googlecolor{background:#dd4b39;} 
+    .googlecolor{background:#36e226;} 
     .flickrcolor{background:#ff0084;}
     .pinterestcolor{background:#c8232c;}
     .youtubecolor{background:#c4302b;}
@@ -157,7 +158,7 @@ h1{
     /* icons color */  
     .dribbble{color:#ea4c89!important}
     .facebook{color:#3b5998!important}
-    .google{color:#dd4b39!important}                                   
+    .google{color:#36e226!important}                                   
     .flickr{color:#ff0084!important}
     .pinterest{color:#c8232c!important;}
     .youtube{color:#c4302b!important;}  
